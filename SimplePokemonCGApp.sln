@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePokemonCG", "SimplePokemonCG\SimplePokemonCG.csproj", "{07BA30B8-60E9-4795-B162-5E3110953133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLibrary", "CardLibrary\CardLibrary.csproj", "{C01EC7E1-3F77-4BF0-A065-C1D8F02EDF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BA30B8-60E9-4795-B162-5E3110953133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BA30B8-60E9-4795-B162-5E3110953133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BA30B8-60E9-4795-B162-5E3110953133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BA30B8-60E9-4795-B162-5E3110953133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01EC7E1-3F77-4BF0-A065-C1D8F02EDF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01EC7E1-3F77-4BF0-A065-C1D8F02EDF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01EC7E1-3F77-4BF0-A065-C1D8F02EDF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01EC7E1-3F77-4BF0-A065-C1D8F02EDF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A4580AB-B9EB-4851-8445-FB3B35A8E0B6}
+	EndGlobalSection
+EndGlobal
