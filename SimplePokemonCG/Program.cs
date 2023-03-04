@@ -37,7 +37,7 @@ namespace SimplePokemonCG
             if (jogador.Mao.Count > inimigo.Mao.Count)
                 Console.WriteLine("Parabens voce venceu !");
             else
-                Console.WriteLine("PERDEU ! VAZA DAQUI SEU FRACASSADO !");
+                Console.WriteLine("Perdeu ! Vaza daqui seu fracassado inutil !!!");
 
 
             Console.ReadLine();
